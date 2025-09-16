@@ -153,4 +153,5 @@ sns.heatmap(corr,annot=True)
 
         
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+
+   Thus the data analysis has been implemented succesfully.
